@@ -1,0 +1,24 @@
+{
+  "name": "plugin_hack",
+  "description": "Chrome plugin to save and query key value pairs",
+  "main": "js/hello.js",
+  "authors": [
+    "Sunny Aggarwal"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "clipboard": "https://github.com/zenorocha/clipboard.js.git#^1.5.15",
+    "jquery-ui": "^1.12.1",
+    "jquery-ui-bootstrap": "^0.2.5"
+  }
+}
